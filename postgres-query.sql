@@ -1,2 +1,1 @@
-ALTER TABLE public.pg_equipment ADD COLUMN functioning bool;
-
+Select * from public.pg_equipment;
