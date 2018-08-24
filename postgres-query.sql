@@ -1,2 +1,2 @@
 
-ALTER TABLE pg_equipment ADD COLUMN flag bool; 
+ALTER TABLE pg_equipment DROP COLUMN flag; 
