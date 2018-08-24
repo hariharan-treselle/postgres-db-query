@@ -1,2 +1,2 @@
 
-ALTER TABLE pg_equipment ADD COLUMN functioning bool; 
+ALTER TABLE pg_equipment DROP COLUMN functioning bool; 
